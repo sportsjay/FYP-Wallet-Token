@@ -1,0 +1,6 @@
+[submodule "express-web3js"]
+	path = express-web3js
+	url = https://github.com/sportsjay/express-web3js.git
+[submodule "blockchain-wallet"]
+	path = blockchain-wallet
+	url = https://github.com/sportsjay/blockchain-wallet.git
